@@ -1,0 +1,15 @@
+title: hello world
+author:
+- countercurrent-time
+date: 2021-12-26 07:00:00
+license:
+  code: AGPL
+  docs: CC BY-SA 4.0
+type: traditional
+catagory: None
+tags:
+  default:
+    - None
+time_limit: 1s
+memory_limit: 128MB
+
