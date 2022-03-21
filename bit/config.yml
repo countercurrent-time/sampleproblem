@@ -1,0 +1,15 @@
+title: [Template] Binary Index Tree 1
+author:
+- anomyous
+date: 2022-03-20 11:00:00
+license:
+  code: AGPL
+  docs: CC0
+type: traditional
+catagory: Data Sturcture
+tags:
+  default:
+    - Binary Index Tree
+time_limit: 1s
+memory_limit: 128MB
+
