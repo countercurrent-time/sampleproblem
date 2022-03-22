@@ -6,7 +6,7 @@ license:
   code: AGPL
   docs: CC0
 type: traditional
-catagory: Data Sturcture
+catagory: Data Structure
 tags:
   default:
     - Binary Index Tree
