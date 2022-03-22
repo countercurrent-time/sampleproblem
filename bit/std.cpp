@@ -25,23 +25,27 @@ long long sum(int i) {
 }
 
 int main() {
-	scanf("%d%d", &n, &q);
-  for (int i = 1; i <= n; i++) scanf("%lld", &c[i]);
+  scanf("%d%d", &n, &q);
+
+  for (int i = 1; i <= n; i++) {
+    int x;
+    scanf("%d", &x);
+    add(i, x);
+  }
+
   while (q--) {
     int op;
     scanf("%d", &op);
     if (op == 1) {
       int i, x;
       scanf("%d%d", &i, &x);
-      // fprintf(stderr, "%d %d\n", i, x);
       add(i, x);
     }
     else {
       int l, r;
       scanf("%d%d", &l, &r);
-      // fprintf(stderr, "%d %d\n", l, r);
       printf("%lld\n", sum(r) - sum(l - 1));
     }
   }
-	return 0;
+  return 0;
 }
