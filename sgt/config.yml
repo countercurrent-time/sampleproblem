@@ -1,0 +1,15 @@
+title: [Template] Segment Tree 1
+author:
+- anomyous
+date: 2022-03-22 21:00:00
+license:
+  code: AGPL
+  docs: CC0
+type: traditional
+catagory: Data Structure
+tags:
+  default:
+    - Segment Tree
+time_limit: 2s
+memory_limit: 128MB
+
