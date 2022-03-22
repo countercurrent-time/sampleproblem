@@ -1,0 +1,6 @@
+n: 1000000
+# The length of the array
+q: 1000000
+# The number of the queries
+a: 1000000
+# The maximum value of the initial value and single variation of the array element (|a_i| and |x|)
