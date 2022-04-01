@@ -1,0 +1,17 @@
+title: [Template] Balance Tree 
+author:
+- anomyous
+date: 2022-03-23 09:00:00
+license:
+  code: AGPL
+  docs: CC0
+type: traditional
+catagory: Data Structure
+tags:
+  default:
+    - Balance Tree
+  sol1:
+    - Splay
+time_limit: 1s
+memory_limit: 128MB
+
